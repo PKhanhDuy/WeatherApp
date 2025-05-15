@@ -1,5 +1,6 @@
 # Weather App
 **Actor: Phùng Khánh Duy** 
+
 ![atmospheric-conditions](https://github.com/user-attachments/assets/f5231842-7c00-4327-80dd-2f918a3c6556)
 
 
