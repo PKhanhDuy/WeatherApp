@@ -1,0 +1,60 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Node modules
+node_modules/
+
+# Expo specific
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log
+
+# OS generated
+Thumbs.db
+Desktop.ini
+
+# Android build artifacts
+android/.gradle/
+android/app/build/
+android/build/
+
+# iOS build artifacts
+ios/build/
+ios/Pods/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# Watchman
+.watchmanconfig
+
+# Environment
+.env
+.env.*
+
+# Metro / babel
+.cache/
+babel-cache/
+
+# VSCode settings
+.vscode/
+
+# Optional: if you use SQLite or file storage
+*.sqlite
+*.db
